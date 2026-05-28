@@ -30,6 +30,7 @@
 * Optimized the project for smooth performance and easy navigation.
 
 ** Technologies Used
+
 1.Programming Language: Python
 
 2.GUI Framework: Tkinter
